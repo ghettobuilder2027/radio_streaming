@@ -7,3 +7,9 @@ sudo apt-get install mplayer ffmpeg
 ## Droits
 
 chmod 855 fip.sh
+
+## Usages
+
+./fip.sh
+
+Pour quitter : Contrôle - C
