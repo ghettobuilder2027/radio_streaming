@@ -1,8 +1,9 @@
 # radio_streaming
 
-* Installation des paquets nécessaire
+## Installation des paquets nécessaire
 
 sudo apt-get install mplayer ffmpeg
 
-* Droits
+## Droits
+
 chmod 855 fip.sh
